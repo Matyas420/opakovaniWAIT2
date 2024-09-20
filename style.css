@@ -1,0 +1,42 @@
+h1, p {
+    text-align: center;
+}
+h1 {
+    font-size: 60px;
+}
+h2 {
+    font-size: 45px;
+}
+h3 {
+    font-size: 40px;
+}
+
+ol, ul {
+    font-size: 25px;
+}
+p {
+    font-size: 25px;
+}
+body {
+    background-color: lightblue;
+}
+img {
+    margin-left: 650px;
+}
+table {
+    font-family: arial;
+    margin-left: 700px;
+    border-collapse: collapse;
+    width: 20%;
+    height: 250px;
+  }
+  
+  td, th {
+    border: 1px solid;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color:lightblue;
+  }
